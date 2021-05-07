@@ -18,4 +18,4 @@ Baseline application to show and receive appropriate data is done. Upcoming goal
 Insert appropriate files to visualize and extrapolate appropriate information through .csv file
     
 ## Story  
-Beginning my graduate studies, I began working with a PhD student doing embodiment research. I was able to figure out how to convert .tilt files into data points that can be visualized in Unity. With this came a method to synchronized movement within Google's Tiltbrush application and the strokes emitted within it to provide appropriate information for the researcher.
+Beginning my graduate studies, I began working with a PhD student doing embodiment research. I was able to figure out how to convert .tilt files into data points that can be visualized in Unity. With this came a method to synchronized movement within Google's Tilt Brush application and the strokes emitted within it to provide appropriate information for the researcher.
